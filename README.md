@@ -1,7 +1,7 @@
 # K-Means Clustering in Python
 
 This is a basic implementation of the k-means clustering algorithm in Python.
-Created as part of the course Artificial Intelligence Tools (Narzędzia Sztucznej Inteligencji) at the Polish-Japanese Academy of Information Technology.
+Created as part of the course Artificial Intelligence Tools at the Polish-Japanese Academy of Information Technology.
 
 Features
 Works with CSV files containing any number of numerical attributes
